@@ -10,9 +10,9 @@ The project use Bootstrap and it consists of the following pages:
 - About [check code](https://github.com/Ashishkarki21/Blog_Site/blob/main/about.html)
 - Contact [check code](https://github.com/Ashishkarki21/Blog_Site/blob/main/contact.html)
 
-<img src="preview1.jpg" alt="Intro" width="800px" />
-<img src="preview2.jpg" alt="Intro" width="800px" />
-<img src="preview3.jpg" alt="Intro" width="800px" />
+<img src="preview1.png" alt="Intro" width="800px" />
+<img src="preview2.png" alt="Intro" width="800px" />
+<img src="preview3.png" alt="Intro" width="800px" />
 
 ## :rocket: How to use
 
